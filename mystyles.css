@@ -1,0 +1,12 @@
+﻿h1 {
+   font-family: arial,verdana,sans-serif;
+   font-size: 36px;
+   background: #ffffff;
+   color: maroon;
+   margin: 20px;
+}
+
+p, figure {
+  padding: 5px;
+  margin-left: 525px;
+}
